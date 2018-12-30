@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "rix1-next-starter",
+  "name": "roast-tracker",
   "builds": [
     {
       "src": "package.json",

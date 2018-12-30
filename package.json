@@ -1,10 +1,10 @@
 {
-  "name": "rix1-next-starter",
+  "name": "roast-tracker",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rix1/rix1-next-starter"
+    "url": "https://github.com/rix1/roast-tracker"
   },
   "author": "rix1",
   "scripts": {

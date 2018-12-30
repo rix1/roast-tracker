@@ -23,7 +23,7 @@ export default class MyApp extends App {
         <div className="flex flex-column vh-100">
           <header className="tc">
             <h1 className="f1 fw7  relative dib">
-              Rix1 starter <Emoji emoji="👩‍🍳" description="Cook" />
+              Roast tracker <Emoji emoji="👩‍🍳" description="Cook" />
             </h1>
             <Navigation />
           </header>

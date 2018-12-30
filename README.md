@@ -1,16 +1,6 @@
-# Rix1's Next.js starter 👨‍🍳
+# Roast tracker 👨‍🍳
 
-> This is Rix1s NextJS starter. I have sort of done _[mise en place](https://en.wikipedia.org/wiki/Mise_en_place)_ so that I can just start cooking PoCs without setting up anything.
-
-The kitchen has the following prepared for you
-
-- NextJS
-- Tachyons (from CDN) and Emotion for styling
-- Flow
-- Jest
-- ESLint
-- Prettier
-- Common components
+> Let's you track time and temperature when cooking stuff.
 
 ## Installing / Getting started
 
@@ -36,8 +26,8 @@ A fresh Node version (I think 7 is the minimum requirement).
 To start developing, first clone the repo
 
 ```shell
-git clone https://github.com/rix1/rix1-next-starter.git
-cd rix1-next-starter/
+git clone https://github.com/rix1/roast-tracker.git
+cd roast-tracker/
 yarn install
 ```
 
@@ -90,4 +80,4 @@ Using Prettier for formatting, Eslint for linting and Flowtype for static type c
 
 ## Licensing
 
-Not yet decided, so for now it's free for anyone to do whatever 🙃
+MIT
